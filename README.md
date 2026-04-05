@@ -10,7 +10,8 @@ About page
 
 Project page
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-05 171620" src="https://github.com/user-attachments/assets/37971e29-1fb5-48ac-9996-67885e4acbf8" />
+
+<img width="1920" height="1080" alt="project png" src="https://github.com/user-attachments/assets/638f3fe7-95f5-482f-82e0-7f017f8553d4" />
 
 
 Contact page
